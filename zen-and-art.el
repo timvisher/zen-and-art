@@ -3,7 +3,7 @@
   (interactive)
   (color-theme-install
    '(color-theme-zen-and-art
-     ((background-color . "#191717")
+     ((background-color . "#000000")
       (background-mode . dark)
       (border-color . "black")
       (cursor-color . "#A7A7A7")
@@ -40,7 +40,6 @@
                                         "#a5baf1" :foreground "black"))))
      (region ((t (:background "#3B3B3F"))))
      (primary-selection ((t (:background "#3B3B3F"))))
-     (isearch ((t (:background "#555555"))))
      (zmacs-region ((t (:background "#555577"))))
      (secondary-selection ((t (:background "#545459"))))
      (flymake-errline ((t (:background "LightSalmon" :foreground
