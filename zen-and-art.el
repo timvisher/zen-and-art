@@ -6,7 +6,7 @@
      ((background-color . "#000000")
       (background-mode . dark)
       (border-color . "black")
-      (cursor-color . "#A7A7A7")
+      (cursor-color . "indian red")
       (foreground-color . "#D2DEC4")
       (list-matching-lines-face . bold)
       (view-highlight-face . highlight))
