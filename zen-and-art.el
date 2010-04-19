@@ -3,7 +3,7 @@
   (interactive)
   (color-theme-install
    '(color-theme-zen-and-art
-     ((background-color . "#000000")
+     ((background-color . "#191717")
       (background-mode . dark)
       (border-color . "black")
       (cursor-color . "indian red")
